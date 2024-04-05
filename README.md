@@ -2,7 +2,7 @@
 
 ### Languages / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,go,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,mysql,js,html,css)](https://skillicons.dev)
 <br />
 
 <!--<img src="https://media.npr.org/assets/img/2015/11/29/ap_286198676062_wide-9329c0c5d5de83e45cafc94ec98306a934aade20.jpg" alt="kobe" style="position: absolute;">
