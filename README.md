@@ -1,3 +1,5 @@
+<div align = "center">
+  
 # Jakub
 
 ### Languages / Technologies
@@ -22,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
