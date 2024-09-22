@@ -4,7 +4,7 @@
 
 ### Languages / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,postgres,go,mysql,html,css)](https://skillicons.dev)
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JakubLipnicki&theme=tokyonight&border_radius=5&date_format=j%2Fn%5B%2FY%5D&exclude)](https://git.io/streak-stats)
