@@ -7,6 +7,16 @@
 [![My Skills](https://skillicons.dev/icons?i=js,postgres,go,mysql,html,css)](https://skillicons.dev)
 <br />
 
+What I'm working on:
+Koda - Place for amateur writers to publish and share their work. (Vue, Go, Postgresql)
+
+<br>/
+
+Some of my projects:
+https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload app (Collaborative project, under Emplocity patronage)
+
+<br />
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=JakubLipnicki&theme=tokyonight&border_radius=5&date_format=j%2Fn%5B%2FY%5D&exclude)](https://git.io/streak-stats)
 <br />
 <br />
