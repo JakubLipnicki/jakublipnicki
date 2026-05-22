@@ -8,11 +8,11 @@
 <br />
 
 What I'm working on:
+<br />
 Koda - Place for amateur writers to publish and share their work. (Vue, Go, Postgresql)
 
-<br>/
-
 Some of my projects:
+<br />
 https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload app (Collaborative project, under Emplocity patronage)
 
 <br />
