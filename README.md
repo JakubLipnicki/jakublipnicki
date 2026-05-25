@@ -4,7 +4,7 @@
 
 ### Languages / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,postgres,go,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,vue,js,postgres,mysql,vim,html,css)](https://skillicons.dev)
 <br />
 
 What I'm working on:
